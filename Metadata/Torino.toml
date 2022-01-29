@@ -1,0 +1,14 @@
+rly_file = "Torino.rly"
+ttb_files = []
+ssn_files = []
+graphic_files = []
+img_files = []
+doc_files = [ "README.md",]
+release_date = "2022-01-29"
+version = "1.0.0"
+country_code = "IT"
+description = ""
+display_name = "Sfm Torino"
+name = "Sfm Torino"
+author = "Kristian Zarębski"
+contributors = []
