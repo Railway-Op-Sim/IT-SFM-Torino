@@ -12,3 +12,4 @@ display_name = "Sfm Torino"
 name = "Sfm Torino"
 author = "Kristian Zarębski"
 contributors = []
+factual = true
